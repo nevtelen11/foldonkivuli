@@ -4,4 +4,6 @@
 - Panyik Szabolcs
 - Kalász Ádám
 - Barta Domonkos
+
+
 [A weblap itt érhető el](https://replit.com/@anevtelen/foldonkivuli)
